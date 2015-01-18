@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When we initialize the git hidden files that contian the structure of the folder gets created so that 
+things can be tracked. We need to do it so that git can be explicitely created i guess?
