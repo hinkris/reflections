@@ -19,3 +19,7 @@ What are some situations when branches would be helpful in keeping your history 
 When you are making changes to earlier answers but also want the earlier answer intact then branches would help i think. 
 Because making changes to earlier branches means that the program will go in a different direction entirely so we need
 branches to keep all possible "routes" available. 
+
+How do the diagrams help you visualize the branch structure?
+
+they help because even otherwise we would visualize this pictorially i guess but doing it helps to solidify the understanding. 
