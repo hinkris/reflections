@@ -23,3 +23,9 @@ branches to keep all possible "routes" available.
 How do the diagrams help you visualize the branch structure?
 
 they help because even otherwise we would visualize this pictorially i guess but doing it helps to solidify the understanding. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+result is to bring together logical changes from both branches 
+that may be needed for going forward with the development of the
+program.
