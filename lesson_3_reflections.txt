@@ -5,3 +5,9 @@ If you want your repo to be accessible from anywhere.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 so we have control over when it happens. Sometimes the internet may not be connected so that will lead to errors? Not sure. 
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks when on github and want to attribute someone for their work. Clone to copy onto local machine n edit etc. Branch when 
+you just want to try out new stuff on your clone or local repo. 
