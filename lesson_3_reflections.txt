@@ -23,3 +23,9 @@ Without using would be very hard because we would probably need
 a folder for each persons changes to the master code. Then merging wouldnt be helped along by software so it would be harder. There wouldnt be an interface like Git to help things.
 Every change in a file which you would otherwise have committed
 would now need to be in a different file if you wanted that version. So there would be lot of versions just to look at. 
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Changes in a seperate branch means that there will be more addntl work when it comes to catching up with the changes others make in github. There will be more steps to take to update local master from github when you want to update branches. Having said that, branches are the only way to go if you want to make a new feature without disrupting the master code. Later
+once the new feature has been tested to not break it could be merged in in the ways discussed. 
